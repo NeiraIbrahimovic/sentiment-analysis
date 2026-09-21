@@ -1,0 +1,22 @@
+[
+  {
+    "path": "src/reviews.txt",
+    "recovered_source_sha256": "313e9ded7d903634d3435a2536d23b93ce2968e79388aa0145c161b277a8013f"
+  },
+  {
+    "path": "src/portfolio/algorithms/Analyzer.java",
+    "recovered_source_sha256": "7bda51260195489f703d1b14571c2e470fcb554a47d79b36913c50f3f694c983"
+  },
+  {
+    "path": "src/portfolio/algorithms/AnalyzerTest.java",
+    "recovered_source_sha256": "3e983232b2c42c80d4ca89d92a9bbf38953741df33a05c6f0d49e8ca296aae79"
+  },
+  {
+    "path": "src/portfolio/algorithms/ObservationTally.java",
+    "recovered_source_sha256": "a189985d0349834f2d22d3405fac9d15ada14e19377647d6fb6e438a30f803b7"
+  },
+  {
+    "path": "src/portfolio/algorithms/Sentence.java",
+    "recovered_source_sha256": "44fb31bbe4fdca3a135c36a929f0d2cbb582b9c623c30c3677eb5259142bfc7b"
+  }
+]
